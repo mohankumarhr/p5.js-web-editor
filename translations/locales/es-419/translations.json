@@ -358,8 +358,9 @@
     "Title": " Editor Web p5.js | Registráte",
     "Description": "Registráte",
     "Or": "o",
-    "AlreadyHave": "¿Ya tienes cuenta? ",
-    "Login": "Ingresa"
+    "AlreadyHave": "¿Ya tienes cuenta?",
+    "Login": "Ingresa",
+    "Warning": "Al registrarse, acepta los <0>Términos de uso</0> y la <1>Política de privacidad</1> del editor p5.js."
   },
   "EmailVerificationView": {
     "Title": "Editor Web p5.js | Correo de Verificación",
